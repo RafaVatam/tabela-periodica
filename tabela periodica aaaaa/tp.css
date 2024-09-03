@@ -1,0 +1,145 @@
+.lin1{
+    width: 60px;
+    height: 450px;
+    float: left;
+    
+}
+
+   .violeta{
+    background-color: blueviolet;
+    
+   
+   
+   }
+  .lin2{
+    width: 60px;
+    height:385px;
+    float: left;
+    position:relative;
+    top:63px;
+
+
+  }
+.verde{
+    background-color:green ;
+}
+.lin3{
+  width: 610px;
+  height:257px;
+  float:left;
+  position:relative;
+  top:190px;
+}
+.rosa{
+  background-color: rgb(215, 93, 113); 
+
+}
+.lin4{
+  width: 244px;
+  height: 385px;
+  float: left;
+  position:relative;
+  top:60px;
+}
+.amarelo{
+  background-color: rgb(215, 226, 12);
+}
+.lin5{
+  width: 60px;
+  height: 385px;
+  float: left;
+  position: relative;
+  top:60px;
+   
+}
+
+.azul{
+  background-color: rgb(45, 140, 181);
+}
+  .lin6{
+    width: 60px;
+    height: 445px;
+    float: left;
+  
+}
+ 
+
+.laranjo{
+  background-color: orange;
+}
+.lin7{
+  width: 915px;
+  height: 60px;
+  position: relative;
+  float: left;
+  top:140px;
+
+}
+.mematei{background-color: rgb(85, 193, 119);}
+.lin8{
+  width: 915px;
+  height: 60px;
+  position: relative;
+  float:left ;
+  top:140px;
+  left:60px;
+  
+
+}
+.quadrado{
+  width: 57px;
+  height: 60px;
+  border-style: groove;
+  border-color: black;
+  float: left;
+}
+.natomico{
+  height: 6px;
+  width: 60px;
+  bottom: 25px;
+text-align: center;
+  position: relative;
+
+  
+}
+
+.simbolo{
+  height: 20px;
+  width: 60px;
+  bottom:45px;
+  text-align: center;
+  
+  position:relative;
+  
+}
+
+.nome{
+  height: 10PX;
+  width: 60PX;
+  bottom:60px;
+  position:relative;
+  text-align: center;
+}
+.h6{
+   position: relative;
+   left: 50px;
+  text-align: center;
+}
+.peso{
+  height:8px ;
+  width: 60px;
+  bottom:85px ;
+  text-align: center;
+
+  position:relative;
+}
+.vermelho{
+  background-color: red;
+}
+
+
+
+
+
+
+
